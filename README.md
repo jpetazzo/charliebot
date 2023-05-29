@@ -26,3 +26,10 @@ Then run `bot.py`.
 
 It's persisting its state in the `.pck` file, which means that you can stop
 and restart it at any time.
+
+## What else
+
+This is very low quality code and should probably be entirely rewritten,
+but it was a very fun experiment :)
+
+Feel free to do whatever you want with it!
